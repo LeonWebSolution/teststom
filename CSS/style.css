@@ -523,7 +523,7 @@ body{
 
 @media (max-width: 500px) {
     .header{
-        padding-top: 10px;
+        padding-top: 0px;
     }
     .logo-text{
         display: none;
@@ -575,6 +575,7 @@ body{
         background: rgba(255, 255, 255, 0.79);
         font-size: 20px;
         margin-bottom: 35px;
+        gap: 15px;
     }
     .main-service-item{
         font-size: 20px;
